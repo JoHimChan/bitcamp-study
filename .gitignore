@@ -1,1 +1,9 @@
 *.exe
+*.class
+bin/
+.classpath
+.project
+.settings/
+*.jar
+*.war
+*.ear
